@@ -1,15 +1,20 @@
+# Hello!
+## I am a Computer Scientist and Game Developer. Currently proficient in Java, Rust, Lua, Python
 
-<!--
-**4thAxiz/4thAxiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I do?
 
-Here are some ideas to get you started:
+- Full-stack Game Developer: love to create games in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Game Designer: love to create concepts and structure projects
+
+- Compiler designer: one of my favorite field of study in Computer Science happens to be this one! Currently designing a scripting-language hosted off of Rust inspired by the design of Lua and it's register-based virtual machine
+
+- Computer Science Teacher: Teach Game Development concepts such as optimizations, writing better code for games, physics and Linear-Algebra for games while also teaching Computer Science such as Data-Structures and Algorithms, Computational-Analysis, Code-Design, Compiler-Design, CPU-Design and Architecture, Memory hierarchy. Currently teaching to 15 students for 2 years
+
+- Code-Reviewer: Professionally been reviewing Lua code for 2+ years, reviewing design, performance, quality, etc
+
+- Researcher: Currently writing a research paper/article on the design of choice on virtual-machine architectures between Registers and Stacks and translating the stack-based JVM to a register-based machine to highlight the efficiency
+
+# More About me!
+
+Hi, I've been programming for 7 years. Currently a high-school student, studying Computer Science, Physics, and Discrete Maths. 
