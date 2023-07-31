@@ -17,4 +17,4 @@
 
 # More About me!
 
-Hi, I've been programming for 8 years. Currently a high-school student, studying Computer Science, Physics, and Discrete Maths. 
+Hi, I've been programming for roughly 10 years. Currently a student, studying Computer Science, Physics, and Discrete Maths. 
